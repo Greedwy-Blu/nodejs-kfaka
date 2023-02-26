@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "kafkajs": "^2.2.3",
+    "nodemon": "^2.0.20",
+    "sucrase": "^3.29.0"
+  }
+}
